@@ -1,0 +1,22 @@
+[
+    {
+        "tarea": "Crear repositorio para iniciar proyecto",
+        "proridad": "alta",
+        "status": "pendiente"
+    },
+    {
+        "tarea": "Optimizar imagenes del sitio web",
+        "proridad": "media",
+        "status": "realizada"
+    },
+    {
+        "tarea": "Documentar el CMS del proyecto",
+        "proridad": "baja",
+        "status": "pendiente"
+    },
+    {
+        "tarea": "Testing del proyecto",
+        "proridad": "alta",
+        "status": "pendiente "
+    }
+]
